@@ -1,0 +1,5 @@
+c:\users\aluno\documents\visual studio 2013\Projects\Restaurante\prjRestaurante\bin\Debug\prjRestaurante.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\Restaurante\prjRestaurante\obj\Debug\prjRestaurante.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\Restaurante\prjRestaurante\obj\Debug\prjRestaurante.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\Restaurante\prjRestaurante\obj\Debug\prjRestaurante.visao.FormPrincipal.resources
+c:\users\aluno\documents\visual studio 2013\Projects\Restaurante\prjRestaurante\obj\Debug\prjRestaurante.csproj.GenerateResource.Cache
